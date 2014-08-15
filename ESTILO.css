@@ -1,0 +1,33 @@
+p,h1,h2,h3,h4,ul{
+	color:#FFFFFF;
+}
+
+h1,p,h2,h3,h4,ul{
+	font-family: 'Shadows Into Light', Arial, serif; font-weight: 400;
+}
+body{
+	background-color: #000000
+}
+.conteudoheader{
+	text-align: center;
+}
+footer{
+	margin-top: 20px;
+}
+
+section{
+	margin-top: 20px;
+}
+header{
+	margin-bottom: 20px;
+}
+footer{
+	text-align: center;
+}
+nav{
+	text-align: center;
+}
+
+.logo{
+	width: 25%;
+}
